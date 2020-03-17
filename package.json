@@ -1,0 +1,36 @@
+{
+  "name": "woof-woof-js-practice-nyc-web-012720",
+  "version": "1.0.0",
+  "description": "THIS GOOD APPLICATION FOR LOOKING AT DOGS BOW WOW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wags83/woof-woof-js-practice-nyc-web-012720.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wags83/woof-woof-js-practice-nyc-web-012720/issues"
+  },
+  "homepage": "https://github.com/wags83/woof-woof-js-practice-nyc-web-012720#readme",
+  "xo": {
+    "envs": [
+      "browser"
+    ],
+    "prettier": true,
+    "rules": {
+      "radix": 0,
+      "capitalized-comments": 0
+    }
+  },
+  "prettier": {
+    "semi": false
+  },
+  "dependencies": {
+    "xo": "^0.28.0"
+  }
+}
